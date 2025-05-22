@@ -8,6 +8,7 @@
   - Add a column for how long the request was open
   - Sort based on how long it was open
   - Sort based on an ordering for how "urgent" the category is
+  - Visualization (plot on a map)
 - Ethics
   - Which sorting / prioritization method is preferrable
   - Students doing the assignment will come to the conclusion that neglected neighborhoods remain neglected 
