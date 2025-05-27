@@ -1,5 +1,13 @@
 # Homework 3
 
+## Learning outcomes
+
+- Using lists, sets, and dictionaries
+- Using the accumulator pattern
+- Analyzing a dataset using Pandas and Numpy
+
+## Overview
+
 - Data is 311 cases (Minor cases, not serious ones) 
   - Oakland/SF: https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6/data_preview
   - Boston: https://data.boston.gov/dataset/311-service-requests
