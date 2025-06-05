@@ -62,6 +62,7 @@ def create_urgency_ranking(df):
     # TODO: Students should create their urgency ranking here
     # This is a placeholder - students should modify this based on their reasoning
     # Lower numbers = more urgent (1 is most urgent)
+    # There are over 100 categories in this dataset, include at least 10 and rank them (giving your reasoning in the summary file)
     urgency_ranking = {
         # EXAMPLE (students should replace with their own reasoning):
         # 'Traffic Signal Repair': 1,           # Immediate safety risk
@@ -70,13 +71,16 @@ def create_urgency_ranking(df):
         # 'Street and Sidewalk Cleaning': 4,   # Quality of life
         #  And so on
         
-        # TODO: Add rankings for all categories found in your dataset
+        # TODO: Add rankings for stleast 10 categories found in your dataset
         # Use the list above to assign urgency scores (1-10 scale recommended), lower number = more urgent
     }
     
-    # TODO: Validate that all categories have been ranked
-    
     return urgency_ranking
+
+def filter_data(df, urgency_ranking):
+    
+    #TODO: Filter the dataset to include only the categories you have ranked.
+
 
 def sort_by_urgency(df, urgency_ranking):
     """
@@ -99,9 +103,9 @@ def sort_by_urgency(df, urgency_ranking):
     if 'category' not in df.columns:
         raise KeyError("Column 'category' not found in dataset")
     
-    # TODO: Create a copy to avoid modifying original data
+    # TODO: Create a copy of the filtered dataset to avoid modifying original data
     
-    # TODO: Add urgency score column
+    # TODO: Add urgency score column based on your rankings
     
     # TODO: Sort by urgency (lower scores = more urgent), then by days open (longer first)
     

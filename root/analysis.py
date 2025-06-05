@@ -16,7 +16,8 @@ def analyze_neighborhood_patterns(df):
     # neighborhood present. Draw some conclusions on the results (you will answer this in the summary file)
     
     # TODO: Compute the average 'days_open' separately for each category. Was there any category that
-    # always gets priority? Was there any that always gets neglected (more number of 'days_open')
+    # always gets priority? Was there any that always gets neglected (more number of 'days_open').
+    # You will do this all based on the filtered dataset with the urgency score column
     
     # TODO: Calculate the count for the number of cases in each neighborhood. See if any neighborhood 
     # was given priority and if any were neglected.
