@@ -63,7 +63,7 @@ Your analysis must include the following components:
 
 ## Ethics and Critical Thinking Component
 
-This assignment includes important ethical considerations about algorithmic bias and urban equity:
+Write a Stakeholder-Value Matrix for your sorting criteria. Then, answer these questions about algorithmic bias and urban equity:
 
 ### Key Questions to Address in Your Summary:
 1. **Urgency Ranking Ethics**: How did you decide which issues are most "urgent"? Consider:
