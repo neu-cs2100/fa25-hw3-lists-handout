@@ -63,8 +63,9 @@ Your analysis must include the following components:
 
 ## Ethics and Critical Thinking Component
 
-Write a Stakeholder-Value Matrix for your sorting criteria. Then, answer these questions about algorithmic bias and urban equity:
+Write a Stakeholder-Value Matrix for your sorting criteria. Include at least three values and at least five stakeholders. Then, answer the questions in `Summary.md` about algorithmic bias and urban equity.
 
+<!--
 ### Key Questions to Address in Your Summary:
 1. **Urgency Ranking Ethics**: How did you decide which issues are most "urgent"? Consider:
    - Public safety and health impacts
@@ -84,6 +85,7 @@ Write a Stakeholder-Value Matrix for your sorting criteria. Then, answer these q
    - Resource allocation in city services?
    - Potential discrimination or bias in service delivery?
    - The digital divide and access to 311 systems?
+-->
 
 ### Documentation:
 * `summary.md` - Your analysis results and ethical reflections (see template)
