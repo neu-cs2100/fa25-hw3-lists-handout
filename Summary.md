@@ -1,5 +1,10 @@
-# SUMMARY TEMPLATE
-Answer all the questions. Please put your answers *after* the italicized instructions.
+# SUMMARY
+
+## Stakeholder-Value Matrix
+
+Write a Stakeholder-Value Matrix for your sorting criteria below. Include at least three values and at least five stakeholders.
+
+Please answer all the questions below after writing the stakeholder-value matrix. Please put your answers *after* the italicized instructions.
 
 ## Urgency Ranking Rationale  
 *Explain your urgency ranking system for the 311 case categories. For each category you ranked, provide your reasoning based on factors like public safety, health impacts, economic consequences, equity issues, community impact, and infrastructure concerns. Include your complete ranking (1=most urgent, higher numbers=less urgent) and justify why you prioritized certain issues over others.*  
