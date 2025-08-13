@@ -90,16 +90,6 @@ Please answer all the questions below after writing the stakeholder-value matrix
 
 ---
 
-### What was your AI usage?  
-*State explicitly (yes or no) whether you used AI. If so, say which tools you used and what your prompts were. Your assignment will not be graded if you do not answer this question.*  
-[2 points]
-* *Example: "I used ChatGPT to help debug a pandas filtering issue; prompt: 'Why is my DataFrame.query() returning empty results when I filter for days_open > average?'"*  
-* *If you did not use AI, please state that.*
-
-*Answer:*
-
----
-
 ### What resources did you use?  
 *Please give specific URLs (not "Stack Overflow" or "Google") and state which ones were particularly helpful.*  
 [2 points]
