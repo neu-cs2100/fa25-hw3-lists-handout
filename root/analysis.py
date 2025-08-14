@@ -4,22 +4,37 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def analyze_neighborhood_patterns(df):
+class NeighborhoodAnalyzer:
     """
-    Analyze patterns in case duration and categories by neighborhood.
-    This function helps students explore potential equity issues.
-    
+    Class responsible for analyzing patterns in case duration and categories by neighborhood.
+    This class helps students explore potential equity issues.
     """
     
-    # TODO: Compute the average number of days a case is open. Then check out the list of cases 
-    # where the 'days_open' is greater than the average. Of these cases calculate the count of each 
-    # neighborhood present. Draw some conclusions on the results (you will answer this in the summary file)
+    def __init__(self, data=None):
+        self.data = data
+        self.analysis_results = {}
     
-    # TODO: Compute the average 'days_open' separately for each category. Was there any category that
-    # always gets priority? Was there any that always gets neglected (more number of 'days_open').
-    # You will do this all based on the filtered dataset with the urgency score column
+    def set_data(self, data):
+        """Set the dataset for analysis."""
+        self.data = data
     
-    # TODO: Calculate the count for the number of cases in each neighborhood. See if any neighborhood 
-    # was given priority and if any were neglected.
-    
-    pass
+    def analyze_neighborhood_patterns(self):
+        """
+        Analyze patterns in case duration and categories by neighborhood.
+        
+        Returns:
+            dict: Dictionary containing analysis results
+        """
+        if self.data is None:
+            raise ValueError("No data set. Please call set_data() first.")
+        
+        # TODO: Compute the average number of days a case is open
+        # TODO: Check out the list of cases where 'days_open' is greater than the average
+        # TODO: Of these cases, calculate the count of each neighborhood present
+        # TODO: Draw conclusions on the results (students will answer this in summary file)
+        
+        # Store results for later access
+        self.analysis_results['avg_days_open'] = None  # TODO: Calculate this
+        self.analysis_results['above_avg_by_neighborhood'] = None  # TODO: Calculate this
+        
+        pass
