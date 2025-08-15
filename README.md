@@ -1,6 +1,7 @@
-# Homework 3: 311 Service Request Analysis
+> [!CAUTION]
+> This repository is for viewing only. Do not work on the assignment using this repository -- the actual course assignments will be provided to you via Pawtograder.
 
-**Note: This repository is for viewing only. Do not work on the assignment using this repository -- the actual course assignments will be provided to you via Pawtograder.**
+# Homework 3: 311 Service Request Analysis
 
 ## Learning Outcomes
 By completing this assignment, you will demonstrate proficiency in:
