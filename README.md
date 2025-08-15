@@ -1,5 +1,7 @@
 # Homework 3: 311 Service Request Analysis
 
+**Note: This repository is for viewing only. Do not work on the assignment using this repository -- the actual course assignments will be provided to you via Pawtograder.**
+
 ## Learning Outcomes
 By completing this assignment, you will demonstrate proficiency in:
 * Using lists, sets, and dictionaries for data manipulation
